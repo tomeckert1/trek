@@ -1,10 +1,9 @@
-import os
-from dotenv import load_dotenv
+import requests
 
-# Simulate retrieval-GPT placeholder
 def get_response(question: str):
-    response = "This is a placeholder response for: " + question
-    sources = [
-        type("SourceNode", (object,), {"metadata": {"title": "Sample Lecture", "educator": "Jason Foster"}})()
-    ]
-    return response, sources
+    response = requests.post(
+        "https://168b5f18-1a60-4338-b72f-69d17778facf-00-1melv1wth7iy8.worf.replit.dev/query",  # 👈 your Replit backend URL
+        json={"query": question}
+    )
+    response_json = response.json()
+    return response_json["response"], response_json.get("sources", [])
