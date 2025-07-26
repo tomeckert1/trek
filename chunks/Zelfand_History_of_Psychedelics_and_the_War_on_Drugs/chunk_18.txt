@@ -1,0 +1,7 @@
+### Reassessing Drug Safety: The UK Harm Study (2010)
+
+**Dr. Erica Zelfand:**
+Let’s take a look at real-world drug harm data from a *2010 UK study*:
+
+| *Drug*              | *Self-Harm* | *Harm to Others* |
+|

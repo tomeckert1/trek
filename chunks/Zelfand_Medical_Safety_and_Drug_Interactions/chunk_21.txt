@@ -1,0 +1,58 @@
+### Q&A: Neurotoxicity, SSRIs, Pregnancy, Client Medications
+
+**student***
+What does neurotoxicity (serotonin toxicity) look like?
+
+**Dr. Erica Zelfand:**
+- Serotonin toxicity (aka serotonin syndrome) mimics infection:
+  - High body temperature
+
+*Oral Ingestion Pathway:*
+  - Nausea, vomiting, diarrhea
+  - Confusion, agitation
+  - Sweating, shivering, muscle twitching
+  - High blood pressure, high heart rate
+- *Red flag signs*:
+  - Fever > 104°F (40°C)
+  - Muscle jerking/spasms
+  - Seizure
+  - Persistent confusion, unconsciousness
+- *Key clue*: If symptoms *last longer than the trip*, suspect toxicity
+
+*Common serotonin-affecting drugs:*
+- SSRIs, SNRIs, MAOIs
+- Tramadol, 5-HTP, MDMA
+
+**student:**
+Can psilocybin cause harm during pregnancy?*
+
+**Dr. Erica Zelfand:**
+- No clinical data available
+- Anecdotal: some indigenous traditions use psilocybin in pregnancy
+- For legal and liability reasons: *avoid psilocybin during pregnancy*
+- If pregnancy discovered afterward, unknown risk to fetus
+
+**student**
+How do you know if an SSRI is blunting the effect of psilocybin?*
+
+**Dr. Erica Zelfand:**
+- You *don’t know in advance*
+- Strategy:
+  - Start with standard dose
+
+*Common serotonin-affecting drugs:*
+  - Assess after ~1 hour
+  - If client reports minimal or no effect → consider *booster*
+- Blunting is typically *consistent* across multiple sessions
+
+**student:** 
+Can clients bring Ativan or ibuprofen into a session?*
+
+**Dr. Erica Zelfand:**
+- Yes, with conditions:
+  - Clients must bring their *own prescribed meds*
+  - Both *client and facilitator must sign* an OHA form acknowledging this
+  - Facilitators *cannot administer* medications
+- OTC meds (like ibuprofen) are allowed if:
+  - Pre-approved by facilitator
+  - Self-administered by the client

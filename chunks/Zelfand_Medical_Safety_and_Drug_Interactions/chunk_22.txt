@@ -1,0 +1,15 @@
+### SSRI Mechanism Visual Recap
+
+**Dr. Erica Zelfand:**
+*Common serotonin-affecting drugs:*
+- *SSRI action*:
+  - Blocks serotonin reuptake transporter
+  - More serotonin stays in the synapse
+  - Postsynaptic receptors *downregulate* over time
+- *Psilocybin effect*:
+  - Binds to 5-HT2A receptors
+  - If receptors are downregulated → *blunted response*
+- *Takeaway*:
+  - Downregulation can persist *months* after stopping SSRI
+  - Boosters can overcome blunting
+  - Start with standard dose, titrate up with boosters

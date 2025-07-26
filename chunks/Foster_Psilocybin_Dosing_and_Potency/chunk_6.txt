@@ -1,0 +1,28 @@
+### New Labeling System: Total Psilocybin Equivalent
+
+**Jason Foster:**
+Here’s a *newer label*, reflecting updated rules. This one includes:
+- *Total psilocybin equivalent (TPE)* — this is awesome and more accurate.
+- *Total potential psilocin*
+
+Why is this useful? Because just knowing the *psilocybin analyte* doesn’t tell us anything about *psilocin*.  
+If a mushroom has a significant amount of psilocin and you ignore it, the actual *strength* of the mushroom may be *much higher* than what’s indicated by the psilocybin-only number.
+
+*TPE* includes the effects of *both psilocybin and psilocin*.
+
+*Total potential psilocin* can be translated into a psilocybin-equivalent number by multiplying it by *1.4*.  
+That’s roughly how much *stronger psilocin* is than psilocybin.
+
+### Label Interpretation and Math
+
+**Participant:**
+So you're saying the total psilocybin equivalent — that's what we're supposed to be paying attention to?
+
+**Jason Foster:**
+Right. That tells us the actual potency.
+
+**Participant:**
+So if I want to calculate the total amount of psilocybin in a specific dose — say, the net weight is 1.73 grams — I just multiply the *TPE* (in mg/g) by the *net weight*, right?
+
+**Jason:**
+Exactly. That gives you the total milligrams of psilocybin-equivalent in that actual sample.

@@ -1,0 +1,4 @@
+-|
+| 1 hour               | Assess for effect/resistance                 |
+| +15 mins             | Engage supportive techniques (breath, etc.) |
+| ~1.5 hours           | If still little or no effect → consider boost |

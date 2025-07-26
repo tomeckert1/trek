@@ -1,0 +1,149 @@
+--|
+| Stomach (acid to break down)   | Liver (for detox/glucuronidation)   |
+| GI tract (for absorption)      | Kidneys (to excrete metabolites)     |
+| Liver (conversion to psilocin) |                                      |
+
+*Digestive Integrity*
+
+Vulnerable Groups:
+- People with gastric bypass
+- People on proton pump inhibitors (e.g., omeprazole, Prilosec)
+- Those taking GLP-1 agonists (e.g., Ozempic)
+- Older adults (often lower stomach acid)
+- People on anti-nausea meds (slows GI motility)
+
+Potential Effects:
+- Failure to “break through”
+- Nausea without perceptual effects
+
+**Dr. Erica Zelfand:**
+*Liver Health*
+
+Psilocybin Conversion:
+- Some conversion happens in the liver (alkaline phosphatase)
+- Liver is also key in detox (glucuronidation)
+
+Risks:
+- Poor detox → drug remains longer in system
+- Higher risk of toxicity if liver is compromised
+
+> "Refer to a medical professional if there's known liver disease."
+
+*Kidney Health*
+
+Controversial Risk Area:
+- Some warn against psilocybin in kidney disease.
+- Others point to 2017 study:  
+  > “Renal clearance of intact psilocin < 2% of total. No dose adjustment needed for mild to moderate impairment.”
+
+Note:
+- The metabolite excreted by kidneys (psilocin-O-glucuronide) is *inactive*.
+
+> "Still, have a pro look it over if there’s known kidney disease."
+
+**Dr. Erica Zelfand:**
+*Cardiovascular Health*
+
+Effects of Psilocybin:
+- Temporarily increases heart rate and blood pressure
+- May increase force of contraction in the *right atrium*
+
+Risks:
+- Caution with *uncontrolled or severe cardiovascular disease*
+- Theoretical risk with *microdosing* due to activity at 5-HT2B receptors:
+  - Receptors found in heart tissue
+  - Chronic activation *could* lead to heart failure  
+  > *"No confirmed cases in humans as of 2023, but it's a theoretical concern."*
+
+**Dr. Erica Zelfand:**
+*Risks:*
+Psychological and Social Context
+
+*Populations to Consider Carefully:*
+- Borderline Personality Disorder
+- Bipolar (hypomania/mania)
+- Psychotic spectrum conditions
+- Seizure disorders
+- Highly unstable or unsafe living environments
+
+*Why?*
+- Psilocybin *increases chaos* in the system  
+  > “If someone is already destabilized, this could do more harm than good.”
+
+*Facilitator's Approach:*
+- Do a thorough *risk-benefit assessment*
+- Be prepared to *refer out* or collaborate with healthcare professionals
+
+--
+
+### Final Notes and Quiz Reminder
+
+**Dr. Erica Zelfand:**
+> “This drug is going to be your livelihood. This is the minimum you should know to work with it safely and ethically.”
+- Know the mechanisms, risks, and therapeutic implications.
+- Support your clients through both the pharmacology *and* the mystery.
+
+### Q&A Session
+
+**Mario:**
+> “What would be a good explanation for people who do not feel psychedelic effects or who need very high doses to get the experience? Also, is there any resistance or tolerance with psilocybin in the long term?”
+
+**Dr. Erica Zelfand:**
+- *Tolerance:* 
+  - Yes, a little. If you take psilocybin multiple days in a row, tolerance can develop.
+  - Example: In Oaxaca, participants did 3 ceremonies back-to-back without issue.
+- *Non-responders:*
+  - *Body mass* is not the issue — there’s no reliable correlation.
+  - *Biochemistry matters*: Stomach acid is necessary to break down mushroom material.
+    - Example: People on *reflux meds* like omeprazole might not respond.
+    - *Ozempic* (GLP-1 agonist) can slow digestion, delaying onset (observed in retreat setting).
+  - *Failure to launch* may also be psychological (e.g., protector parts, fear of surrender).
+  - Oregon regulations limit modifications (e.g., lemon tek not allowed), limiting options.
+
+> “I’ve had people who needed up to 16 grams before feeling anything.”
+
+**a student:**
+> “I’ve used ayahuasca and psilocybin but haven’t really experienced visuals. Is that just a dosage issue?”
+
+**Dr. Erica Zelfand:**
+- Could be *individual neurochemistry*.
+- *Dose matters* — higher doses more likely to cause visuals.
+- Maybe fewer 5-HT2A receptors in your visual cortex.
+- Important point: 
+  > “Visuals do *not* correlate with meaningful therapeutic outcomes.”
+  - Example: A woman was laughing for hours but said, “I’m not sure if it worked, I didn’t see anything.”
+  > “Oh honey, it worked.”
+
+**a student:**
+> “I recall Dr. Seth saying psychedelics can worsen symptoms in people with Cluster B personality disorders, but you cited a study where narcissism symptoms improved. Is there a discrepancy?”
+
+**Dr. Erica Zelfand:**
+- Great question.
+- The study cited was on *traits*, not full-blown narcissistic personality disorder (NPD).
+- Psychedelics can *worsen* symptoms in people with Cluster B disorders (e.g., NPD, BPD).
+- But psychedelic experiences can help **reduce narcissistic *traits***.
+
+**Elyse Gardner-Raupp:**
+- Traits = soft / flexible.
+- NPD = hard-wired / structural personality issue.
+- Psychedelics loosen fixed views, helping with *traits*, not necessarily the disorder.
+
+**a student:**
+> “Can memory recall be enhanced after multiple psychedelic experiences?”
+
+**Dr. Erica Zelfand:**
+- Yes. It’s like a *domino effect*:
+  - The temporary neurochemical changes during a psychedelic session can *open the door* to memory recall.
+  - Not all memories come at once — it can feel like *pulling on a thread*.
+- This is a *reBUS* effect (relaxed beliefs under psychedelics): 
+  - Lower parts of the brain finally get to say, “Hey, what about this memory?”
+  - Can result in accessing *repressed material*.
+
+> “Sometimes clients remember something and don’t know if it happened to them or someone else.”
+- This can be *distressing* to clients.
+- Response: Regardless of origin,
+  > “It came up because it’s ready to be healed.”
+- Practitioner’s role:
+  - Support healing the material.
+  - Help clients determine if it belongs to them or someone else.
+  - If it’s not theirs, ask: “Do you want to metabolize this for them? How do we hand it off?”

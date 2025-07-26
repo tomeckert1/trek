@@ -1,0 +1,5 @@
+title: How Psychedelics Work
+educator: Dr. Robin Carhart-Harris
+date: 9/6/2023
+topics: serotonin 2A receptors, neuroplasticity, predictive coding, therapeutic outcomes, canalization, clinical trials, entropic brain, SSRI interactions, REBUS model (Relaxed Beliefs Under Psychedelics), Psilocybin vs. SSRIs, Placebo
+source: InnerTrek Training lectures

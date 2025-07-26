@@ -1,0 +1,132 @@
+### Drug-Drug Interactions Overview
+
+**Dr. Erica Zelfand:**
+You’re not expected to be a *pharmacologist*, but you *will* see clients on psychiatric medications.
+
+> “Whether or not you work with them, they’ll still knock on your door.”
+
+### SSRI and Psilocybin: Serotonin Syndrome?
+
+*Claimed risk:* SSRI + psilocybin = serotonin syndrome
+*Reality:* Probably a **myth**, but we need more data.
+- SSRIs increase serotonin in the synapse by *blocking reuptake*.
+- Psilocybin binds to the *5-HT2A receptor*.
+- Only one SSRI, *escitalopram*, has been formally studied in this context.
+- No significant harm observed.
+- *Possible blunting* of psychedelic effect due to *downregulated serotonin receptors*.
+
+> “We can usually override blunting with a *booster dose*, not by starting higher.”
+
+### Blunting: How to Manage It
+
+**Dr. Erica Zelfand:**
+- Don’t increase dose preemptively.
+- Instead, monitor and *add a booster* if needed.
+
+> “You might blow them to the moon otherwise.”
+
+Skipping a dose of SSRI does *not* resolve blunting—effects of SSRIs persist for *weeks to months*.
+
+### Risk Factors for Serotonin Toxicity
+
+*Dr. Erica Zelfand:*
+*More likely with:*
+- *Two or more* serotonin-affecting medications (e.g., SSRI + SNRI)
+- *MAOIs* (rarely prescribed today)
+- Some supplements (e.g., *5-HTP*)
+- Recreational polypharmacy
+
+*Recommendation:*
+Avoid combining drugs that *increase serotonin levels* from multiple pathways.
+
+### Stimulants and Psilocybin
+
+**Dr. Erica Zelfand:**
+*Examples:*
+- Prescription: Adderall, Ritalin (for ADHD)
+- Recreational: Methamphetamine, Cocaine
+- Over-the-counter: Caffeine
+
+*Guidance:*
+- Avoid stimulant use *1 day before and after* a psilocybin session.
+- Risk of increased *agitation*, *muscle spasms*, and unpleasant overstimulation.
+- Especially relevant for people taking ADD/ADHD medications.
+
+> “Most people can skip a day or two of their meds without any big deal. Just something to have on your radar.”
+
+### Benzodiazepines (Benzos)
+
+**Dr. Erica Zelfand:**
+*Common Names:*
+- Xanax (Alprazolam)  
+- Valium (Diazepam)  
+- Ativan (Lorazepam)
+
+*Function:*
+- Central nervous system depressants  
+- Act on *GABA* receptors  
+- Used for anxiety, sleep, social ease
+
+*Key Risks:*
+- Can *dampen or abort* a psilocybin trip
+- *Not dangerous* in interaction per se, but:
+  - May reduce therapeutic benefit
+  - May result in *no launch or a muted trip*
+
+> “Some people try to skip their dose the day of. That’s *dangerous*.”
+
+*Critical Warning:*
+- *DO NOT* encourage abrupt discontinuation.
+- Can cause *seizures*, *life-threatening withdrawal*, and *long-term damage*.
+
+> “The only time I’ve seen someone code in ibogaine work? They stopped their benzos without telling us.”
+
+### Lithium and Psilocybin
+
+**Dr. Erica Zelfand:**
+*Absolute contraindication per OHA*
+
+*Critical Warning:*
+- Lowers the *seizure threshold*
+- Combining with psilocybin increases seizure risk
+- Must be *off lithium for 30 days* before proceeding
+
+### Recreational Drug Use and Psilocybin
+
+**Dr. Erica Zelfand:**
+- Most adverse events in the literature involve *poly-drug use* in recreational settings.
+
+*Examples:*
+- Alcohol + psilocybin
+- Cannabis + psilocybin
+- MDMA or cocaine + psilocybin
+
+*Facilitator Screening Questions:*
+- Does this person use other substances?
+- Do they have a *substance use disorder*?
+- Were they honest on their intake form?
+
+> “You can’t just ask: ‘Were you honest on your intake form?’ You have to follow your *spidey sense*.”
+
+### Cannabis + Psilocybin
+
+**Dr. Erica Zelfand:**
+*OHA Regulations:*
+- *Cannabis cannot be combined* with psilocybin in licensed service centers.
+
+*Underground / Retreat Settings:*
+- Cannabis is sometimes used to “launch” a psilocybin trip
+- Can *shorten time to peak*, *reduce session length variability*
+- However, it can also:
+  - *Spin people out*
+  - Cause *dry eyes*, *cotton mouth*, and *increase bad trips*
+
+*Best Practice:*
+- Stick with *booster doses* of psilocybin rather than cannabis augmentation.
+
+### TripSit Combo Chart
+
+**Dr. Erica Zelfand:**
+*Resource:* [https://combo.tripsit.me](https://combo.tripsit.me)
+- Offers an interactive guide to drug–drug interactions
+- Emphasizes safety and risk of common recreational substances

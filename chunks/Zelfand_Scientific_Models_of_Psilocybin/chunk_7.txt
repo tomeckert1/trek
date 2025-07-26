@@ -1,0 +1,26 @@
+### Pharmacokinetics of Psilocybin
+
+**Dr. Erica Zelfand:**
+- *Onset of Effects*:  
+  Subjective effects usually peak around 60–90 minutes after oral ingestion. However, this can vary depending on digestive health.
+
+- *Half-Life*:  
+  Psilocybin has a half-life of ~3 hours. Multiply any drug’s half-life by 5 to estimate when it’s fully cleared.  
+  → 3 hours × 5 = *15 hours* for complete elimination.
+
+- *Body Weight*:  
+
+**Dr. Erica Zelfand:**
+  Surprisingly, body weight does *not* predict how much psilocybin someone needs. A petite person and a 300-pound bodybuilder may need the same dose—or the opposite. It depends on other variables, not size.
+
+- *Elimination*:  
+  Psilocin is metabolized in the *liver* (via *phase II glucuronidation*) and eliminated through the *kidneys* in urine.
+
+### Summary of Pharmacokinetics
+
+**Dr. Erica Zelfand:**
+- *Active Form*: Psilocin  
+- *Conversion*: Stomach → Intestine → Liver  
+- *Action Site*: Brain (via serotonin receptors, especially 5-HT2A)  
+- *Elimination*: Liver metabolism + kidney excretion  
+- *Variability*: Highly individual—body size isn’t predictive

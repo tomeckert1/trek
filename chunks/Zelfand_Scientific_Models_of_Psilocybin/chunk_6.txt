@@ -1,0 +1,28 @@
+### What Is Psilocybin?
+
+**Dr. Erica Zelfand:**
+Psilocybin is a naturally occurring compound found in over 200 species of mushrooms and truffles. Psilocybin-containing species have been identified on every continent except Antarctica. The most common genus is *Psilocybe*.
+> A quick note on pronunciation for your professional credibility:
+> It’s not *silo-cybe*—it’s *sill-OSS-uh-bee*.
+
+*Psilocybin vs. Psilocin*
+- *Psilocybin* is a *prodrug*, meaning it is inactive until the body metabolizes it.
+- It gets converted into *psilocin*, the bioactive form that actually produces psychedelic effects.
+
+**Dr. Erica Zelfand:**
+This conversion process is surprisingly complex and not entirely agreed upon in the literature. It involves several parts of the digestive system:
+
+1. *Mouth & Stomach*:
+   - You chew and swallow the mushroom.
+   - Stomach acid breaks down the cellulose and liberates psilocybin.
+   - Some sources suggest that conversion to psilocin begins here.
+
+2. *Small Intestine*:
+   - Enzymes called *alkaline phosphatases* convert more psilocybin to psilocin.
+
+3. *Liver*:
+   - Also rich in alkaline phosphatase enzymes.
+   - Completes the conversion process.
+   - Psilocin then enters systemic circulation and travels to the brain.
+
+Psilocin is *lipophilic*, meaning it loves fat—and our brains are made mostly of fat. It crosses into the brain and binds to serotonin receptors, especially *5-HT2A*.

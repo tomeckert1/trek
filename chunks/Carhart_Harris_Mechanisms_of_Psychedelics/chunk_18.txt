@@ -1,0 +1,37 @@
+### Axial Diffusivity and White Matter Changes
+
+**Dr. Robin Carhart-Harris:**
+Here’s a new and *unpublished* finding I’m excited about.
+
+We used diffusion tensor imaging (DTI) to look at white matter structure in the brain. Specifically, we tracked *axial diffusivity*, a measure of how easily water moves along neural fibers—basically, how “tight” or “organized” those cables are.
+
+We found that:
+- One month after a *high dose* of psilocybin (25 mg), *axial diffusivity decreased*
+- This resembles patterns seen in *brain development* (e.g., from infancy to adulthood)
+- It’s the *opposite* of what happens in aging, where diffusivity increases due to fiber degradation
+
+This suggests that psilocybin may *enhance brain maturation* or *promote healthy structural change*.
+
+Participants also showed improved psychological well-being and increased *cognitive flexibility* after the session.
+
+So it’s an exciting result—but of course, it needs replication.
+
+**Erica Zelfand:**
+Robin, could you just clarify that for folks newer to neuroscience? You’re saying that axial diffusivity usually decreases as the brain develops, right?
+
+**Robin Carhart-Harris:**
+Yes, exactly. From infancy to adulthood, *diffusivity decreases* as white matter pathways become more organized.
+
+In aging, the opposite happens—*diffusivity increases*, signaling breakdown.
+
+So the decrease we saw one month after psilocybin looks like a *healthy, developmental shift*, not a pathological one.
+
+**Erica Zelfand:**
+So could this suggest an anti-aging or anti-dementia potential?
+
+**Robin Carhart-Harris:**
+You said it, not me. *[laughter]*
+
+It’s tempting to imagine the headlines—“Psilocybin: The Elixir of Life”—but we need to manage expectations.
+
+Still, it's a fascinating possibility.

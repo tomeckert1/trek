@@ -1,0 +1,21 @@
+### SSRIs, Receptor Dynamics, and Clinical Considerations
+
+**Erica Zelfand**
+> _“You are the medicine.”_
+
+*SSRI Overview*
+- *Most common antidepressants.* Affect serotonin (5-HT) signaling by blocking reuptake at the synapse.
+- *Mechanism:* Keeps serotonin in the synapse longer → increased signaling through 5-HT1A receptors.
+
+*Psilocybin and SSRIs*
+*Risks:*
+- *Psilocybin activates 5-HT2A*, associated with insight, plasticity, and transformative states.
+- SSRIs *downregulate all serotonin receptors over time*, including 5-HT2A.
+- This can lead to *blunted response* to psilocybin in clients on SSRIs.
+
+*Clinical Observations*
+- SSRI users often need *30–50% more psilocybin* to achieve similar effects.
+- Some require *8–12 grams dried* to reach breakthrough states.
+- *Boosters are essential* in SSRI clients — dose must match the individual, not the protocol.
+
+> _“There's no lethal dose of psilocybin. If you need to give more, give more — within reason.”_

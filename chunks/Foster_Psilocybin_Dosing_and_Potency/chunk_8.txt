@@ -1,0 +1,64 @@
+### Summary of Label Sections
+
+**Jason Foster:**
+- *Red*: Potency (mg/g)
+- *Blue*: Net weight (g)
+- *Green*: Total active psilocybin (mg)
+
+So potency × weight = *how much active compound* is in the sample.
+
+This number helps us figure out what to give clients.
+
+### Final Clarifications on Labels
+
+**Participant:**
+So if there was psilocin in this batch, the TPE would be higher?
+
+**Jason Foster:**
+Exactly. Even though the psilocybin analyte stays the same, the *TPE increases* if there’s psilocin.
+
+**Participant:**
+And in this batch, TPE × net weight = 9.96 mg — right?
+
+**Jason Foster:**
+Right. 5.76 mg/g × 1.73 g = 9.96 mg.
+
+### Dosing Math Recap
+
+**Participant:**
+What's the difference between psilocybin analyte and total psilocybin equivalent?
+
+**Jason Foster:**
+- Psilocybin analyte = just psilocybin (in milligrams)
+- Psilocybin equivalent = psilocybin + psilocin effects (in milligrams per gram)
+
+You're solving for milligrams per gram, and eventually for *total milligrams* — which is what we care about when dosing.
+
+### Visual Recap of the Label
+
+**Jason Foster:**
+Let’s break it down:
+- *Red*: Potency (mg/g)
+- *Blue*: Weight (g)
+- *Green*: Total active ingredient (mg)
+
+So:
+- Red × Blue = Green
+- That’s your *total dose* (active product)
+
+We use this to determine how many milligrams of psilocybin-equivalent to give someone.
+
+### Psilocin and Total Potential
+
+**Participant:**
+If there was psilocin in the batch, would the “total potential psilocybin” number be higher?
+
+**Jason Foster:**
+Yes. Both the total psilocybin equivalent and total potential psilocybin would be higher.
+
+**Participant:**
+But if there's no psilocin, shouldn't the TPE and analyte numbers be the same?
+
+**Jason Foster:**
+They are in this case.  
+The TPE of 5.76 mg/g × 1.73 g = 9.96 mg — the same as the psilocybin analyte.

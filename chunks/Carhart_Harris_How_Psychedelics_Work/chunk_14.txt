@@ -1,0 +1,22 @@
+### Clinical Trials: Psilocybin vs. SSRIs (NEJM Trial)
+
+**Robin Carhart-Harris:**
+Let’s talk about the *New England Journal of Medicine (NEJM)* trial comparing *psilocybin therapy vs. escitalopram (Lexapro)* for major depressive disorder.
+
+*Trial Design:*
+- *Double-blind*, randomized, two-arm study
+- *6 weeks* of daily Lexapro vs. *2 psilocybin sessions* (25mg, 3 weeks apart)
+- Primary outcome: QIDS (Quick Inventory of Depressive Symptomatology)
+
+*Key Results:*
+- *95% of outcome measures* favored psilocybin over Lexapro
+- BUT… psilocybin *missed the primary outcome* (QIDS) by a narrow margin
+- This limited the strength of conclusions, due to pre-registered statistical protocol
+
+*Nuance:*
+- Other measures (HAM-D, BDI, PHQ-9, well-being scales) *significantly favored psilocybin*
+- Faster onset of effect with psilocybin (clear improvement by week 2)
+- Side effects like emotional blunting were more prevalent in the Lexapro group
+- Psilocybin participants reported *increased ability to cry, feel compassion, and emotional depth*
+
+> “Had we chosen any other measure as the primary outcome, the headlines would have read: *‘Mushrooms outperform Lexapro.’*”

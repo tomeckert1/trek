@@ -1,0 +1,53 @@
+### Quick Note on the Oregon Health Authority (OHA) Client Form
+
+**Dr. Seth Mehr:**
+The OHA Client Information Form requires facilitators to:
+- *Exclude* clients if they say YES to lithium, psychosis, or active harm thoughts.
+- *Encourage* clients to seek a consult for medical, mental, or behavioral conditions (not required, but encouraged).
+- *Provide risk disclosures* for pregnancy or breastfeeding.
+- *Coordinate safety plans* for mobility or communication needs.
+- *Consider* substance use, trauma history, and past altered states in your planning and facilitator matching.
+
+### Organ Systems Affected by Psilocybin
+
+**Dr. Seth Mehr:**
+Let’s zoom out and look at the *main organ systems* psilocybin impacts.  
+If a client has conditions affecting these systems, it's time to *pause* and *investigate*.
+
+1. *Stomach*
+- Psilocybin enters through the stomach.
+- *Nausea and vomiting* are common.
+- Not usually a safety concern, but good to prepare for.
+
+2. *Heart*
+- Increases heart rate and blood pressure.
+- Be cautious with clients with:
+  - Coronary artery disease
+  - History of heart attacks
+  - Heart valve problems
+  - Aneurysms
+  - Heart rhythm problems (like A-fib or SVT)
+
+If the heart is structurally or electrically fragile → *Consult required*.
+
+**Dr. Seth Mehr:**
+3. *Brain (Neurologic)*
+- Affects cognition, emotions, perceptions.
+- Key concerns:
+  - *Stroke history* (risk from elevated blood pressure)
+  - *Cognitive impairment* (e.g., dementia, TBI)
+    - Especially concerning for *decision-making capacity* and *consent*.
+
+4. *Serotonin System*
+- Psilocybin acts as a *partial serotonin agonist*.
+- Important when considering *medication interactions* (more detail coming in later lecture).
+
+5. *Liver*
+- Psilocybin is *metabolized in the liver*.
+- Clients with *severe liver disease* (e.g., cirrhosis, hepatitis) may have:
+  - Delayed onset
+  - Prolonged effects
+  - Potentially more intense experiences
+
+> *You don’t have to diagnose or memorize conditions!*  
+> When a red flag pops up, *pause* and *consult* to make an informed plan.

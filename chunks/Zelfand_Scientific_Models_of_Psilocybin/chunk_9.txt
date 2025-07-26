@@ -1,0 +1,63 @@
+### Serotonin and 5-HT2A Receptor Agonism
+
+**Dr. Erica Zelfand:**
+Let’s start with some history. Albert Hofmann, working at Sandoz Laboratories in Switzerland, synthesized LSD and later investigated mushrooms from Mexico, helping to isolate *psilocybin* and *psilocin*.
+
+*Structural Similarity to Serotonin*
+
+Look at their chemical structure—psilocybin and psilocin are nearly identical to *serotonin* (5-HT: 5-hydroxytryptamine), which:
+- Is a key neurotransmitter in mood, cognition, memory, sleep, appetite, and more
+- Affects over *40 million* cells in the body
+- Exerts its effects at the *synapse*—the space between neurons
+
+*Receptor Binding*
+- Psilocybin is a *serotonin agonist*—it binds to the same receptors as serotonin, especially *5-HT2A*.
+- Binding to 5-HT2A is strongly associated with the psychedelic experience.
+
+**Dr. Erica Zelfand:**
+- If you block this receptor with a drug like *ketanserin*, then take psilocybin—you won’t trip.
+
+> LSD lasts so long because it binds *very strongly and persistently* to the 5-HT2A receptor.
+
+*Where Are These Receptors?*
+- *Posterior Cingulate Cortex (PCC)*:  
+  This is part of the *Default Mode Network (DMN)*. It helps with internal focus, daydreaming, memory recall, cognition, and perception.
+- *Visual Cortex*:  
+- *Primary Motor Cortex*:  
+  Has few 5-HT2A receptors. This is why psilocybin usually doesn’t impair coordination like alcohol does. But still—do not drive.
+
+**Dr. Erica Zelfand:**
+*5-HT1A vs. 5-HT2A Comparison*
+
+Let’s compare two important serotonin receptors.
+
+*5-HT1A*
+- Supported by: SSRIs (Selective Serotonin Reuptake Inhibitors)
+- Located in: Limbic system (stress circuitry)
+- *Effects*: 
+  - Coping
+  - Emotional blunting
+  - Patience
+  - Resilience
+- *Analogy*: It’s like adding shocks to your car. The bumps are still there, but you don’t feel them as much.
+
+*5-HT2A*
+- *Activated by*: Psilocybin and other classic psychedelics
+- *Located in*: Multiple cortical regions
+- *Effects*: 
+  - Learning and unlearning
+  - Pattern breaking
+  - New perspectives
+- *Analogy*: You realize you can take the freeway instead of a bumpy road. You change the route altogether.
+
+**Dr. Erica Zelfand:**
+*Peripheral Effects*
+
+5-HT2A receptors also exist *outside* the central nervous system—in the:
+- *Endocrine system* (thyroid, pancreas, adrenal glands)
+- *Cardiovascular system*
+- *Gut*
+- *Skin*
+- *Blood vessels*
+
+> This is probably why psilocybin can cause nausea in some people—due to 5-HT2A activity in the gut.

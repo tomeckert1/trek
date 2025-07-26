@@ -1,0 +1,27 @@
+### Serotonin 2A Receptor: Location and Significance
+
+**Robin Carhart-Harris:**
+These receptors are heavily expressed in the cortex. You can see in this PET image—positron emission tomography—how it labels where those receptors are in the living human brain. All that convoluted stuff on the outside? That’s the cortex—“cortex” meaning “bark,” like the bark of a tree. That outer layer is where most of the computation goes on. It’s massively expanded in our species. Really, it’s what sets us apart from other mammals: the sheer amount of cortex we have relative to our body mass.
+
+Interestingly, the regions of the cortex that have expanded the most in our species—up to tenfold relative to macaques—are also the regions with the highest expression of the 2A receptor. I think that’s fascinating.
+
+We’ve actually got a review paper coming out that discusses this potential link. It suggests the serotonin 2A receptor may have played a causal role in the expansion of the human brain—or at least in the expansion of the cortex. That’s the system, the receptor, that psychedelics hijack.
+
+### The "Stoned Ape" Hypothesis and Modern Neuroscience
+
+**Robin Carhart-Harris:**
+Some of you may have heard of the "Stoned Ape Hypothesis"—Terence McKenna’s idea that proto-humans ingesting psilocybin mushrooms catalyzed behavioral change and drove brain expansion. It's a fascinating idea. We're not saying that’s what happened, but based on modern neuroscience, we are proposing that the receptor psychedelics act on—2A—may have played an evolutionary role.
+
+### Evidence for the Role of the 2A Receptor
+
+**Robin Carhart-Harris:**
+So why do we think the 2A receptor is important? There are a few solid reasons.
+
+First, there’s a strong correlation between the affinity—or stickiness—of a psychedelic for the 2A receptor and its potency. The stickier it is, the more potent the effect. For example, LSD is very sticky and very potent. Mescaline, on the other hand, is much less sticky and much less potent—by orders of magnitude. When you can plot something like that and get a tight correlation, you can feel pretty good that it’s a principle.
+
+**Robin Carhart-Harris:**
+Second, if you block the 2A receptor with a drug like ketanserin, people don’t trip. You can give it before or during the experience and it aborts the trip. That speaks not just to correlation but causation.
+
+Third, there's a dose-response relationship. The higher the psilocybin dose, the more receptors get occupied, and the more intense the subjective effect. That’s occupancy of the 2A receptor—doing the business, doing the magic.
+
+There are a few challenges to this from rodent research, but in humans, the evidence holds up. So we can be confident that this receptor is at the beginning of what we might call "the magic."

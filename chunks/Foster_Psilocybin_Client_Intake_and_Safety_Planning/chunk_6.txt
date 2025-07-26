@@ -1,0 +1,12 @@
+### Example Scenario: SSRIs and Cardiac Risk
+
+**Jason Foster:**
+Let’s take an example:
+- A client has been on an SSRI for five years.
+- There is an indication on the form of an undiagnosed cardiac condition.
+
+You can require that they consult both:
+- Their *prescribing doctor*
+- Their *general practitioner*
+
+On the other hand, *not every client* who’s currently in treatment requires a formal safety plan.

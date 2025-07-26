@@ -1,0 +1,5 @@
+title: Scientific Mechanisms of Psilocybin and Specific Client Populations
+educator: Dr. Erica Zelfand
+date: 6/27/2024
+topics:  neuroscience, default mode network, serotonin 2A receptors, neuroplasticity, clinical trials, entropic brain, SSRI interactions, REBUS model
+source: InnerTrek Transcript Archive

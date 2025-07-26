@@ -1,0 +1,32 @@
+### Analyte vs. Equivalent
+
+**Jason Foster:**
+There’s a difference between:
+- *Psilocybin analyte*: measures only psilocybin.
+- *Total psilocybin equivalent*: includes psilocybin *and* psilocin.
+
+This batch is kind of a weird example — it doesn’t have *any psilocin* in it.  
+So the *psilocybin analyte* and *TPE* are the same.
+
+But that’s *not* going to be true for every batch.
+
+### Clarifying Terminology and Formulas
+
+**Jason:**
+Let’s clarify. If there were psilocin in the mushroom, we’d need to go to the *TPE* number and multiply that by the *weight*.
+
+**Participant:**
+So the analyte is just what's measured?
+
+**Jason:**
+Yes. And the “equivalent” includes psilocin effects.  
+In this case, the TPE is *5.76 mg/g*.
+
+To calculate the *TPE*, you:
+- Take the psilocin (mg/g)
+- Multiply it by *1.4*
+- Add that to the psilocybin (mg/g)
+
+That gives you the *effective dose* as if it were all psilocybin.
+
+> *Psilocin is the compound that actually creates the psychedelic experience — it crosses the blood-brain barrier.*

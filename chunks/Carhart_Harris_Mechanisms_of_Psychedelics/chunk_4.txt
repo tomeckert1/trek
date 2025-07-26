@@ -1,0 +1,41 @@
+### Serotonin 2A Receptors and Psychedelic Pharmacology
+
+**Dr. Robin Carhart-Harris:**
+These days, I tend to present on the brain and therapeutic mechanisms of classic psychedelics.
+
+One way we define classic psychedelics is through their pharmacology—where they act on the body and the brain. Over the years, we’ve come to understand that these compounds act on the serotonin system, something first discovered as early as 1950. It was noted that compounds like LSD interacted with serotonin.
+
+By the mid-1980s, researchers discovered that a particular serotonin receptor subtype was key to the action of these drugs: the serotonin 2A receptor.
+
+In this PET image here, people were injected with a radioactively labeled 2A agonist psychedelic. It’s one of the so-called "N-Bombs"—specifically, SYMBY-36. It’s highly selective for the 2A receptor, meaning it binds especially tightly to that receptor, more than to any other receptor.
+
+**Dr. Robin Carhart-Harris:**
+That gives us a pretty clear, functionally informative image of where the 2A receptor is in the living human brain. Because the radiolabeled chemical is an agonist—it stimulates the receptors—we get to see the ones that are functionally available. 
+
+So this map, which shows the cortex highlighted in hot colors (red), is arguably the most informative visual of where the 2A receptor lives in the brain. You can see that expression is especially high in the cortex—particularly in high-level association cortex, the part of the brain that is so remarkably expanded in our species compared to our nearest evolutionary neighbors.
+
+Some aspects of the cortex have expanded tenfold in humans, and—probably not coincidentally—that’s also where these serotonin 2A receptors are most densely expressed.
+
+### Evidence for the Central Role of the 2A Receptor
+
+**Dr. Robin Carhart-Harris:**
+We know the 2A receptor is central to the action of psychedelics for a few reasons.
+
+Back in the 1980s, researchers discovered a correlation between a psychedelic compound’s *affinity* for the 2A receptor and its *potency*. When plotted, LSD stands out—it has extremely high affinity for the 2A receptor and is incredibly potent, active in microgram doses. There are 1,000 micrograms in a milligram. Compare that to mescaline, where the active dose is around 400 mg—two orders of magnitude higher—because it binds much less tightly to the 2A receptor.
+
+Another major piece of evidence: if you *pretreat someone with a 2A antagonist*—a drug that blocks the receptor—and then give them a psychedelic, they will not have a psychedelic experience.
+
+This was first demonstrated with psilocybin by Franz Vollenweider in Zurich in the late 1990s, and later with ayahuasca and LSD. In fact, a recent study showed that giving a 2A blocker *after* LSD can attenuate or even abort the trip. That’s an important pharmacological principle.
+
+### Dose-Dependent Receptor Occupancy
+
+**Dr. Robin Carhart-Harris:**
+Here’s further confirmatory evidence: we’ve measured how different doses of psilocybin occupy different percentages of 2A receptors using PET imaging.
+
+Higher doses occupy a greater proportion of receptors. And those same doses correlate with more intense subjective effects. So again, a clear link: *more receptor engagement equals stronger psychedelic effects*.
+
+This tells us that all the profundity and poetic transformation associated with psilocybin starts with a simple physical event: a molecule binds to a protein on a neuron in your brain.
+
+So: the 2A receptor is where it all begins.
+
+As you all know, the word “psychedelic” means "soul-revealing"—from the Greek: psyche (soul) and deloun (to make manifest).

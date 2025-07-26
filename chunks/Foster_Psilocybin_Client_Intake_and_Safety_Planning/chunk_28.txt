@@ -1,0 +1,28 @@
+### Screening Construct: Four Categories
+
+**Jason Foster:**
+1. *Eligible with No Issues*  
+   - No adverse mental/physiological conditions.  
+   - No contraindicated medications.  
+   - Can receive services.
+
+2. *Eligible with Enhanced Informed Consent*  
+   - Moderate mental/physiological conditions.  
+   - Mildly contraindicated medications (e.g., SSRIs).  
+   - Inform client clearly of risks and possible reduced effects.
+
+3. *Eligible with Enhanced Informed Consent & Safety Planning*  
+   - More serious mental/physical conditions or contraindicated meds.  
+   - Example: Bipolar II or pregnancy.  
+   - Requires:
+     - Emotional support assessment  
+     - Medical consultation  
+     - Possibly tapering off meds
+
+4. *Ineligible for Services*  
+   - Active psychosis, minors, recent lithium use, etc.  
+   - Cannot proceed, *even with a safety plan*.
+
+> Strong support networks benefit all clients. Assess emotional support even when no red flags are present.
+
+> You and the client may choose to schedule a *post-session meeting* with a therapist *in advance*, without waiting to see what emerges in the session.
